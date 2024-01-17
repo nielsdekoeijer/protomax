@@ -1,0 +1,8 @@
+[package]
+name = "protomax"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+median = { git = "https://github.com/Cycling74/median.git", branch = "develop", package = "median" }
+
